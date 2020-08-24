@@ -1,7 +1,3 @@
----
-layout: default
----
-
 Welcome to my website. Here you can find a list of things I am working on, or have worked on in the past.
 
 ## [Aetherium](https://github.com/TomasBorsje/Aetherium)
