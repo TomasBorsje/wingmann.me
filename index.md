@@ -1,4 +1,7 @@
-# Wingmann's Stuff
+---
+layout: default
+---
+
 ## [Aetherium](https://github.com/TomasBorsje/Aetherium)
 Aetherium is a mod for Terraria using tModLoader.
 
