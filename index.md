@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text goes here.
+Welcome to my website. Here you can find a list of things I am working on, or have worked on in the past.
 
 ## [Aetherium](https://github.com/TomasBorsje/Aetherium)
 Aetherium is a mod for Terraria using tModLoader.
